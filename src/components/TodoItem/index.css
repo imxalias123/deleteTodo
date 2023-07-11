@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.todo-container{
+    display:flex;
+}
+.para{
+    font-family:"roboto";
+    font-size:;
+    color:#000000;
+}
+
+.button{
+    font-family:"roboto";
+    font-size:;
+    color:#ff0b37;
+    border: 1px #ff0b37;
+
+}
